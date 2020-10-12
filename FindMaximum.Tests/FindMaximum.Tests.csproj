@@ -21,7 +21,7 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
   </ItemGroup>
-    <ItemGroup>
-      <ProjectReference Include="..\FindMaximumTask\FindMaximum.csproj" />
-    </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FindMaximum\FindMaximum.csproj" />
+  </ItemGroup>
 </Project>
