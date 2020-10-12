@@ -19,7 +19,7 @@ namespace FindMaximumTask.Tests
             this.array = Enumerable.Range(1, this.max).ToArray();
         }
 
-        [Order(2)]
+        [Order(1)]
         [TestCase(new int[] { 0, 50 }, ExpectedResult = 50)]
         [TestCase(new int[] { 100 }, ExpectedResult = 100)]
         [TestCase(new int[] { int.MaxValue, int.MaxValue, int.MinValue, 50 }, ExpectedResult = int.MaxValue)]
