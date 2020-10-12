@@ -1,6 +1,6 @@
 using System;
 
-namespace FindMaximumTask
+namespace FindMaximum
 {
     /// <summary>
     /// Class for operations with array.
