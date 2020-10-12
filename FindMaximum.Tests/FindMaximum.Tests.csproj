@@ -22,6 +22,6 @@
     </PackageReference>
   </ItemGroup>
     <ItemGroup>
-      <ProjectReference Include="..\FindMaximumTask\FindMaximumTask.csproj" />
+      <ProjectReference Include="..\FindMaximumTask\FindMaximum.csproj" />
     </ItemGroup>
 </Project>
